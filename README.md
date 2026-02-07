@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi I'm suseela bandi
+**python full-stack devolper**-.React,sql
+-current project:mysql
+-learning:system design basics
+-portfolio/linkedin:https://www.linkedin.com/in/suseela-bandi
 
-<!--
-**bandi-suseela/bandi-suseela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech
+python,react,javascript,html,css
 
-Here are some ideas to get you started:
+## projects (pinned below)
+1.school App-mysql
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+2.E-commerce App-Django,react
